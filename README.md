@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://i.pinimg.com/1200x/96/97/8d/96978d31c9e0a698b600608827efbe20.jpg" width="100%" alt="banner" />
+
 <h1>Welcome to Emmanuel's GitHub</h1>
 <h3>&lt;/&gt;</h3>
 
