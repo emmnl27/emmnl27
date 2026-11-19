@@ -32,7 +32,7 @@ Actualmente estoy practicando con proyectos personales para poner en práctica l
 
 ---
 
-<h2 align="center">🔐 Intereses</h2>
+<h2 align="center">🔐 Interests</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Desarrollo_de_Software-18181b?style=for-the-badge" />
