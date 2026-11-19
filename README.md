@@ -41,8 +41,6 @@ Actualmente estoy practicando con proyectos personales para poner en práctica l
 
 ## 📊 Statistics
 
-## 📊 Statistics
-
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=emmnl27&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
   <img height="180" src="https://streak-stats.demolab.com/?user=emmnl27&theme=dark&hide_border=true" alt="Streak" />
