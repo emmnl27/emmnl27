@@ -12,7 +12,7 @@
 <h2 align="center">👤 About me</h2>
 
 Hola, soy **Emmanuel Sánchez**, estudiante de **Ingeniería Informática**.
-Me apasiona la **programación** y la **ciberseguridad**: me gusta entender cómo funcionan los sistemas, resolver problemas y aprender tecnologías nuevas.
+Me apasiona el **desarrollo de software**, la **ciberseguridad** y el **análisis de datos**: me gusta entender cómo funcionan los sistemas, resolver problemas y aprender tecnologías nuevas.
 Actualmente estoy practicando con proyectos personales para poner en práctica lo que aprendo.
 
 ---
@@ -35,9 +35,9 @@ Actualmente estoy practicando con proyectos personales para poner en práctica l
 <h2 align="center">🔐 Intereses</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Programación-18181b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Desarrollo_de_Software-18181b?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ciberseguridad-18181b?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ingeniería_Informática-18181b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Análisis_de_Datos-18181b?style=for-the-badge" />
 </p>
 
 ---
