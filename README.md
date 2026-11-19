@@ -41,13 +41,15 @@ Actualmente estoy practicando con proyectos personales para poner en práctica l
 
 ## 📊 Statistics
 
+## 📊 Statistics
+
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Emmanuel-Sanchez&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuel-Sanchez&theme=dark&hide_border=true" alt="Streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=emmnl27&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=emmnl27&theme=dark&hide_border=true" alt="Streak" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Emmanuel-Sanchez&theme=react-dark&hide_border=true&area=true" alt="Contribution graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=emmnl27&theme=react-dark&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
 </div>
